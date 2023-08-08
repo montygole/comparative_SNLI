@@ -1,6 +1,6 @@
 # comparative_SNLI
 Comparative study of four models on the SNLI dataset
-## Note: 
+### Note: 
 This is the final research project which I chose for CP8210 @ TMU in Spring 2023
 
 
